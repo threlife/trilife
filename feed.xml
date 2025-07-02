@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>三生石的键政空间</title>
+    <link href="https://threlife.github.io/trilife/feed.xml" rel="self" />
+    <link href="https://threlife.github.io/trilife" />
+    <updated>1970-01-01T12:00:00+12:00</updated>
+    <author>
+        <name>三生石</name>
+    </author>
+    <id>https://threlife.github.io/trilife</id>
+
+</feed>

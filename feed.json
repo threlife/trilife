@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "三生石的键政空间",
+    "description": "",
+    "home_page_url": "https://threlife.github.io/trilife",
+    "feed_url": "https://threlife.github.io/trilife/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "三生石"
+    },
+    "items": [
+    ]
+}

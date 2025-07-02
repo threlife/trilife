@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://threlife.github.io/trilife/sitemap.xml
